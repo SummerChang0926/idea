@@ -3,6 +3,7 @@ package com.szun.domain;
 public class Person {
     private String name;
     private int age;
+    private double salary;
 
     public String getName() {
         return name;
